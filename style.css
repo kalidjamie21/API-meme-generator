@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.main-container {
+    padding: 20px;
+}
+
+.meme-btn {
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+
+.meme-holder  {
+    margin-top: 10px;
+}
+
+.title {
+    padding-top: 50px;
+}
